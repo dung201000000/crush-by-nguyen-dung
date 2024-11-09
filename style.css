@@ -32,7 +32,7 @@
   -webkit-filter: blur(4px);
 }
 .swal2-title, .swal2-content{
-  color: rgb(255, 119, 210)) !important;
+  color: rgb(255, 119, 210) !important;
 }
 .swal2-popup {
   border-radius: 15px !important;

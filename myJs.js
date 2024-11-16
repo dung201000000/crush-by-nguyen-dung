@@ -2,7 +2,7 @@ const textConfig = {
   text1: "Helo cậu!",
   text2: "Tớ Muốn Hỏi Cậu Một Câu Hỏi <3",
   text3: "Cậu Có Thích Tớ Không ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
+  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v created by :NGUYỄN TRẦN ĐỨC DŨNG",
   text5: "Cậu mơ à???",
   text6: "Tất Nhiên Là Có rùiii<3",
   text7: "Lí do cậu thích tớ đi :vvvv",
@@ -35,7 +35,7 @@ $(document).ready(function () {
     Swal.fire({
       title: textConfig.text1,
       text: textConfig.text2,
-      imageUrl: "img/mon.jpg",
+      imageUrl: "mon.jpg",
       imageWidth: 300,
       imageHeight: 300,
       background: '#fff url("iput-bg.jpg")',
@@ -133,7 +133,7 @@ $(document).ready(function () {
         Swal.fire({
           width: 900,
           confirmButtonText: textConfig.text12,
-          background: '#fff url("img/iput-bg.jpg")',
+          background: '#fff url("iput-bg.jpg")',
           title: textConfig.text10,
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
